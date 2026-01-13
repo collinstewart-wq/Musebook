@@ -1,6 +1,8 @@
 # Musebook
 Musebook is an accessibility-first, humane AI project focused on helping people think and learn without surveillance or pressure. I’m looking for a Founding Engineer to help build a small, demo-ready MVP (4–6 weeks) so we can begin early pilots. If you enjoy building thoughtful tools and care about accessibility or education, I’d love to talk.
 
+-
+
 Musebook — Founding Engineer (equity-based partnership, no salary at start)
 
 I’m building Musebook: an accessibility-first, humane AI tool to support learning, thinking, and creative work without surveillance or pressure. Our focus is people who are often underserved by mainstream tools — neurodivergent students, educators, and workers — and we design around calm, private, and permissioned interactions rather than tracking or gamified engagement.
